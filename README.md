@@ -25,7 +25,7 @@
 
 - The images looks like:
   <p align="center">
-   <img src="https://github.com/lilosa88/Horse-or-Human/blob/main/Images/Captura%20de%20Pantalla%202021-05-18%20a%20la(s)%2017.17.26.png" width="520" height="480">
+   <img src="https://github.com/lilosa88/Horse-or-Human/blob/main/Images/Captura%20de%20Pantalla%202021-05-18%20a%20la(s)%2017.17.26.png" width="720" height="480">
   </p> 
   
 # Feature engineering
