@@ -23,9 +23,9 @@
 
 - The set contains 500 rendered images of various species of horse in various poses in various locations. It also contains 527 rendered images of humans in various poses and locations. Emphasis has been taken to ensure diversity of humans, and to that end there are both men and women as well as Asian, Black, South Asian and Caucasians present in the training set. The validation set adds 6 different figures of different gender, race and pose to ensure breadth of data.
 
-- The figures looks like:
+- The images looks like:
   <p align="center">
-   <img src="https://github.com/lilosa88/Fashion-MNIST-/blob/main/Images/Captura%20de%20Pantalla%202021-05-18%20a%20la(s)%2016.20.14.png" width="190" height="180">
+   <img src="https://github.com/lilosa88/Horse-or-Human/blob/main/Images/Captura%20de%20Pantalla%202021-05-18%20a%20la(s)%2017.17.26.png" width="190" height="180">
   </p> 
   
 # Feature engineering
